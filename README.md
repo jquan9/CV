@@ -1,1 +1,1 @@
-Jordan Quan's CV using HTML and CSS
+Jordan Quan's Basic CV using HTML and CSS
